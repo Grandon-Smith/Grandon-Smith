@@ -3,10 +3,10 @@
 
 ## I'm a full stack web weveloper
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Vue.js, Node.js and React 🤣
 - 👯 I’m self taught
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and snowboard and trail run
+- ⚡ Fun fact: I love to snowboard and trail run
 
 ### Connect with me:
 
